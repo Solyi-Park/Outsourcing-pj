@@ -180,7 +180,8 @@ function Map() {
                 padding: '5px',
                 color: '#000',
                 width: '100%',
-                height: '20px'
+                height: '20px',
+                zIndex: '100'
               }}
             >
               &nbsp; &nbsp; &nbsp; &nbsp; 현재 내 위치
